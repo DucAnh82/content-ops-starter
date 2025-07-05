@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: DICHER – Hồ sơ dự án phiên dịch AI
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/mockup.jpg
   type: Seo
   addTitleSuffix: true
 type: PageLayout
